@@ -1,0 +1,91 @@
+nav	{
+	background-color: black;
+	color: black;
+}
+
+li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 10px 30px 10px 30px;
+
+}
+
+a	{
+	text-decoration: none;
+	color: white;
+	font-size: 1.3em;
+	font-weight: bold;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+ul	{
+	float: right;
+}
+
+.clearfix	{
+	clear: both;
+}
+
+.inline	{
+	display: inline-block;
+}
+
+.prvi, .drugi, .treci, .cetvrti	{
+	border: 1px solid black;
+	position: fixed;
+	top: 250px;
+	width: 150px;
+	height: 130px;
+	padding: 40px 25px 15px 25px;
+	border-radius: 5px;
+}
+
+.circle1, .circle2, .circle3, .circle4	{
+	width: 60px;
+	height: 60px;
+	background-color: black;
+	border-radius: 50%;
+	position: fixed;
+	top: 230px;
+	
+}
+
+.prvi	{
+	left: 120px;
+}
+
+.drugi	{
+	left: 410px;
+}
+
+.treci	{
+	left: 710px;
+}
+
+.cetvrti	{
+	left: 1010px;
+}
+
+.circle1	{
+	
+	left: 190px;
+}
+
+.circle2	{
+	
+	left: 480px;
+}
+
+.circle3	{
+	
+	left: 780px;
+}
+
+.circle4	{
+	
+	left: 1080px;
+}
+
+
+
+
+
